@@ -1,4 +1,4 @@
-**# 📋 Facial Expression Recognition using Convolutional Neural Networks 🧑‍💻**
+# 📋 **Facial Expression Recognition using Convolutional Neural Networks** 🧑‍💻
 
 **📝 Project Summary:**
 This project aims to automatically detect emotions from facial images using CNNs. The model classifies expressions like 😃 happy, 😢 sad, 😠 angry, etc., benefiting affective computing and human-computer interaction.
